@@ -31,7 +31,7 @@ const DismantleSection = () => {
   const [frame, setFrame] = useState(0);
   const totalFrames = 240;
   
-  const { images, isLoaded, drawFrame, loaded } = useFrameSequence('/src/assets/frames/dismantle', totalFrames);
+  const { images, isLoaded, drawFrame, loaded } = useFrameSequence('/frames/dismantle', totalFrames);
 
   // Resize canvas
   useEffect(() => {

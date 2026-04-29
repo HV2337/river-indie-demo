@@ -7,7 +7,7 @@ const HeroSection = () => {
   const [frame, setFrame] = useState(0);
   const totalFrames = 240;
 
-  const { images, isLoaded, drawFrame, loaded } = useFrameSequence('/src/assets/frames/hero', totalFrames);
+  const { images, isLoaded, drawFrame, loaded } = useFrameSequence('/frames/hero', totalFrames);
 
   // Resize canvas
   useEffect(() => {
