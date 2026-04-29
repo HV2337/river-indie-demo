@@ -2,6 +2,8 @@
 
 This is a visually engaging demo website created for the River Indie electric scooter. This project was developed entirely for fun and as a creative exercise.
 
+**[🚀 View Live Demo](https://river-indie-demo.vercel.app)**
+
 **Disclaimer:** This is a non-commercial project created for educational and creative purposes. The official imagery of the River Indie was used as a reference for a generative pipeline involving Whisk and Google Veo 3. Videos were processed into frame-sequences via Ezgif. This platform was architected using Antigravity. Concept & Orchestration by Hareesh V. Not affiliated with River Mobility Pvt. Ltd.
 
 ## Credits & Creative Process
